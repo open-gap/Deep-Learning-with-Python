@@ -1,1 +1,3 @@
 .vscode
+plot_network.py
+*.h5
